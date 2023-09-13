@@ -1,0 +1,5 @@
+tap "homebrew/bundle"
+brew "asciinema"
+brew "gh"
+brew "mas"
+brew "r"
